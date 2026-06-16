@@ -13,7 +13,7 @@ A modern cybersecurity toolkit built in Python that provides essential security 
 
 ### Main Dashboard
 
-<img src="screenshots/dashboard.png" width="900">
+<img src="dashboard.png" width="900">
 
 ---
 
